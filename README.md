@@ -7,4 +7,5 @@ The bankers' algorithm for a safe state is demonstrated in this project. Banker'
 
 # How to run/complie with the following commands. 
 $clang++ -std=c++11 banker.cpp
+
 $./a.out 
