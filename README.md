@@ -1,5 +1,5 @@
 # Banker_Algorithm
-by Ramone Fields
+By Ramone Fields
 
 # Getting Started
 
