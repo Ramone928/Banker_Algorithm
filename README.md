@@ -13,4 +13,4 @@ $./a.out
 
 
 # Example Output 
-<img width="319" alt="Screen Shot 2021-12-08 at 9 19 00 PM" src="https://user-images.githubusercontent.com/88847535/145322604-6dbfe15e-1be4-487d-a538-71a231f2fe1a.png">
+<img width="528" alt="Screen Shot 2021-12-08 at 11 54 41 PM" src="https://user-images.githubusercontent.com/88847535/145337134-2ef6a594-8a61-4331-9f85-70a11fb410ee.png">
